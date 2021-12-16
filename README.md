@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm am Md. Abu Basar</h1>
-<h3 align="center">I'm a Web Developer</h3>
+![Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basar021&label=Profile%20views&color=0e75b6&style=flat" alt="basar021" /> </p>
+### Hi there 👋, I'm Md Abu Basar
+#### Web Designer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basar021" alt="basar021" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+I'm a professional Web Designer. I work with ☛ HTML 5 ☛ CSS3 ☛ jQuery ☛ Bootstrap 5 ☛ Javascript (latest version) etc. I design any kind of website (Business, E-Commerce, etc) with the highest quality. I try my best to make sure 100% client satisfaction.
 
-- 👯 I’m looking to collaborate on **github**
+Skills: HTML / CSS /JS / Bootstrap / jQuery / WordPress / PHP /mysql / Photoshop / Illustrator 
 
-- 💬 Ask me about **Web Development**
+- 🔭 I’m currently working on Fiverr 
+- 🌱 I’m currently learning Javascript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Design 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md.abu bashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abu bashar" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/basar021 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bashar021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.abu.bashar.503)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bashar_021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@bashar_021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/bashar021)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basar021&show_icons=true&locale=en&layout=compact" alt="basar021" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basar021&show_icons=true&locale=en" alt="basar021" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=basar021 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basar021&" alt="basar021" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basar021 )](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=basar021 &show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=basar021 )  
+
+![GitHub metrics](https://metrics.lecoq.io/basar021 )  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=basar021 )  
+
+![Profile views](https://gpvc.arturio.dev/basar021 )  
