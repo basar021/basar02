@@ -49,7 +49,9 @@ Welcome to my GitHub profile. I'm a professional Web Designer. I work with ☛ H
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hablu-programmer)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basar021&layout=compact)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=basar021&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=basar021)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=basar021)  
